@@ -1,15 +1,16 @@
 ## aboutMe
 <br>
 {<br>
-&nbsp;&nbsp;"degree": "Mathematician",<br>
-&nbsp;&nbsp;"uni": "University of Wroclaw",<br>
-&nbsp;&nbsp;"occupation": "System Quality Assurance Speciallist",<br>
-&nbsp;&nbsp;"type": "Manual tester",<br>
-&nbsp;&nbsp;"startDate": "06/2021",<br>
-&nbsp;&nbsp;"location:": "Wroclaw",<br>
-&nbsp;&nbsp;"Li": "[linkedin.com/in/apujanek](linkedin.com/in/apujanek)",<br>
-&nbsp;&nbsp;"degree": "Mathematician",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"degree": "Mathematician",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"uni": "University of Wroclaw",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"occupation": "System Quality Assurance Speciallist",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"type": "Manual tester",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"startDate": "06/2021",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"location:": "Wroclaw",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Li": "[linkedin.com/in/apujanek](linkedin.com/in/apujanek)"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"degree": "Mathematician",<br>
 }
+
 
 ## technicalSkills
 {<br>
