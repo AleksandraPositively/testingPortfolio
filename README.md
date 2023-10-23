@@ -12,7 +12,7 @@ Problem solver.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_upper_right: "occupation": "System Quality Assurance Speciallist",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pushpin: "type": "Manual tester",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:date: "startDate": "06/2021",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: "location:": "Wroclaw",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: "location:": "remote / Wroclaw",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: "Li": "[linkedin.com/in/apujanek](http://linkedin.com/in/apujanek)"<br>
 }
 
