@@ -1,6 +1,4 @@
 ## aboutMe
-![alt](https://media.licdn.com/dms/image/D4D03AQGF_KO1Yuo5wg/profile-displayphoto-shrink_800_800/0/1696995253382?e=1703721600&v=beta&t=fKW4fFglHUOo-PJLENxe6uaK3xPxG7W4aMwQBixfIuQ)
-
 <br>
 {<br>
 &nbsp;&nbsp;"degree": "Mathematician",<br>
@@ -16,11 +14,27 @@
 ## technicalSkills
 {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"SDLC": "agile, waterfall",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"projectManagement": "JIRA, Trello",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"lifecycleApp": "MF ALM",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"databases": "SQL",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"projectManagementTool": "JIRA, Trello",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"testManagementTool": "MF ALM",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"databasesManagementTool": "SQL",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"backend": "REST API",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"location:": "Wroclaw",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Li": "[linkedin.com/in/apujanek](linkedin.com/in/apujanek)"<br>
 }
 ***
+<table>
+    <tr>
+        <th>Status dashboard</th>
+        <th>Tags dashboard</th>
+    </tr>
+    <tr>
+        <td width="50%">           
+        </td>
+        <td width="50%">         
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">Display and overview and offer actions to manipulate your project state.</td>
+        <td width="50%">View and manipulate local and remote tags.</td>
+    </tr>
+</table>
