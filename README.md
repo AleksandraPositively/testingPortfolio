@@ -50,13 +50,17 @@
 ![Static Badge](https://img.shields.io/badge/test%20script%20creation-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/test%20execution-grey)
 ![Static Badge](https://img.shields.io/badge/requirements-E6E6E6)
-![Static Badge](https://img.shields.io/badge/functional-grey)
-![Static Badge](https://img.shields.io/badge/sanity-E6E6E6)
-![Static Badge](https://img.shields.io/badge/smoke-grey)
-![Static Badge](https://img.shields.io/badge/regression-E6E6E6)
-![Static Badge](https://img.shields.io/badge/acceptance-grey)
-![Static Badge](https://img.shields.io/badge/defects-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/ISTQB%20principles-grey)
+![Static Badge](https://img.shields.io/badge/defects-E6E6E6)
+<br>
+![Static Badge](https://img.shields.io/badge/test%20type:-functional-E6E6E6)
+![Static Badge](https://img.shields.io/badge/sanity-grey)
+![Static Badge](https://img.shields.io/badge/smoke-E6E6E6)
+![Static Badge](https://img.shields.io/badge/regression-grey)
+![Static Badge](https://img.shields.io/badge/acceptance-E6E6E6)
+![Static Badge](https://img.shields.io/badge/integration-grey)
+
+
 
 {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"area": "web applications"<br>
@@ -67,11 +71,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"req": "analysis and verification of functional requirements",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"testTypes": {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"type1":"functional",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"type1": "functional",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"type2": "sanity",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"type3": "smoke",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"type4": "regression",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"type5": "acceptance "<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"type5": "acceptance",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"type5": "integration"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"defects": "defect management",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"theory": "ISTQB principles"<br>
