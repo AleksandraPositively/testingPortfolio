@@ -1,5 +1,5 @@
 ## :clipboard: tableOfContent
-[techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | PROJECT: API Trello
+[techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [PROJECT: API Trello](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello)
 
 
 ## :gem: techSkills
@@ -82,4 +82,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"theory": "ISTQB principles"<br>
 }
 
-## PROJECT: API Trello
+## :file_folder: PROJECT: API Trello
+
+:arrow_forward: [Project repository:] 
+
+:twisted_rightwards_arrows: Project scope:
+- find, read and analyse REST API documentation for Trello,
+- select area for testing activities:
+    - board name while creating a new board,
+    - E2E scenario,
+- create requests and test scripts in Postman,
+- create Postman's collections, environment and test data (data load),
+- run Postman collections with environment and data load from Newman,
+- create Test Report
+
+
+
