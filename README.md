@@ -84,7 +84,7 @@
 
 ## :file_folder: PROJECT: API Trello
 
-:arrow_forward: [Project repository:] 
+:arrow_forward: [Project repository](https://github.com/AleksandraPujanek/PROJECT-API-Trello)
 
 :twisted_rightwards_arrows: Project scope:
 - find, read and analyse REST API documentation for Trello,
