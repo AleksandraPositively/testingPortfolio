@@ -1,5 +1,3 @@
-# aboutMe
-
 ## techSkills
 ![Static Badge](https://img.shields.io/badge/agile-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/waterfall-grey)
