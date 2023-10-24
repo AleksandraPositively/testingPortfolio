@@ -1,4 +1,8 @@
-## techSkills
+## :clipboard: tableOfContent
+[techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | PROJECT: API Trello
+
+
+## :gem: techSkills
 ![Static Badge](https://img.shields.io/badge/agile-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/waterfall-grey)
 ![Static Badge](https://img.shields.io/badge/SQL-E6E6E6)
@@ -21,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
 }
 
-## tools
+## :wrench: tools
 ![Static Badge](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MF%20ALM-0073E7)
@@ -42,7 +46,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VC": "GitHub"<br>
 }
 
-## manualTestingSkills
+## :mag_right: manualTestingSkills
 ![Static Badge](https://img.shields.io/badge/web%20applications-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/test%20planning-grey)
 ![Static Badge](https://img.shields.io/badge/test%20script%20creation-E6E6E6)
@@ -57,8 +61,6 @@
 ![Static Badge](https://img.shields.io/badge/regression-grey)
 ![Static Badge](https://img.shields.io/badge/acceptance-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/integration-grey)
-
-
 
 {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"area": "web applications"<br>
@@ -79,20 +81,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"defects": "defect management",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"theory": "ISTQB principles"<br>
 }
-***
-<table>
-    <tr>
-        <th>Status dashboard</th>
-        <th>Tags dashboard</th>
-    </tr>
-    <tr>
-        <td width="50%">           
-        </td>
-        <td width="50%">         
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">Display and overview and offer actions to manipulate your project state.</td>
-        <td width="50%">View and manipulate local and remote tags.</td>
-    </tr>
-</table>
+
+## PROJECT: API Trello
