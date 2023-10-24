@@ -1,20 +1,4 @@
-## aboutMe
-
-SQA Specialist/Manual Tester familiar with JSON, JS, Java, Postman, Rest Assured.
-In love with documentation. But only a good one ;) Otherwise fan of exploration.
-Team player.
-Analytical thinker.
-Problem solver.
-
-{<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: "degree": "Mathematician",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:school: "uni": "University of Wroclaw",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:arrow_upper_right: "occupation": "System Quality Assurance Speciallist",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:pushpin: "type": "Manual tester",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:date: "startDate": "06/2021",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:round_pushpin: "location:": "remote / Wroclaw",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:link: "Li": "[linkedin.com/in/apujanek](http://linkedin.com/in/apujanek)"<br>
-}
+# aboutMe
 
 ## techSkills
 ![Static Badge](https://img.shields.io/badge/agile-E6E6E6)
@@ -23,7 +7,7 @@ Problem solver.
 ![Static Badge](https://img.shields.io/badge/manual%20testing-grey)
 ![Static Badge](https://img.shields.io/badge/REST%20API-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/Java%20Script-grey)
-
+![Static Badge](https://img.shields.io/badge/Java-grey)
 
 {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"SDLC": {<br>
@@ -40,13 +24,14 @@ Problem solver.
 }
 
 ## tools
-![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MF%20ALM-0073E7)
 ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Postman-Newman-FF6C37?logo=postman&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JAVA-Rest%20Assured-179E35)
+![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 
 {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"project": "JIRA, Trello",<br>
