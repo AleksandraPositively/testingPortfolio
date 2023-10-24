@@ -92,6 +92,7 @@
     - board name while creating a new board,
     - E2E scenario,
 - create requests and test scripts in Postman,
+- apply good practisies: clean up after testing activities,
 - create Postman's collections, environment and test data (data load),
 - run Postman collections with environment and data load from Newman,
 - create Test Report
