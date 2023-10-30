@@ -1,5 +1,5 @@
 ## :clipboard: tableOfContent
-[techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [PROJECT: API Trello](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello)
+[techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [ PROJECT: API Trello - board name validation](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello)
 
 
 ## :gem: techSkills
@@ -82,7 +82,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"theory": "ISTQB principles"<br>
 }
 
-## :file_folder: PROJECT: API Trello
+## :file_folder:  PROJECT: API Trello - board name validation
 
 :arrow_forward: [Project repository](https://github.com/AleksandraPujanek/PROJECT-API-Trello)
 
