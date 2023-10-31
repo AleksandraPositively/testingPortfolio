@@ -1,5 +1,5 @@
 ## :clipboard: tableOfContent
-[techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [ PROJECT: API Trello - board name validation](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello)
+[techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [ PROJECT: API Trello - board name validation](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello) | [SQL requests]
 
 
 ## :gem: techSkills
@@ -97,5 +97,8 @@
 - run Postman collections with environment and data load from Newman,
 - create Test Report
 
+## :file_folder:  PROJECT: SQL requests
+
+:arrow_forward: [Project repository](https://github.com/AleksandraPujanek/SQLrequests)
 
 
