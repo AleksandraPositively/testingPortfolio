@@ -122,3 +122,10 @@ SQL Lesson 17: Altering tables<br>
 SQL Lesson 18: Dropping tables<br>
 SQL Lesson X: To infinity and beyond!<br>
 
+## :bulb: ISTQB knowledge
+
+QUIZ: [https://getistqb.com/quiz-ecru/](https://getistqb.com/quiz-ecru/)
+
+Score: 14/15
+
+Answers: [ecru-quiz](https://raw.githubusercontent.com/AleksandraPujanek/SQLrequests/main/images/2023-10-31_GETISTQB_ecru-quiz.png)
