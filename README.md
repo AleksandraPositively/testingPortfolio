@@ -1,5 +1,5 @@
 ## :clipboard: tableOfContent
-[techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [ PROJECT: API Trello - board name validation](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello) | [SQL requests]
+[techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [ PROJECT: API Trello - board name validation](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello) | [SQL requests](https://github.com/AleksandraPujanek/testingPortfolio/blob/main/README.md#file_folder--project-sql-requests)
 
 
 ## :gem: techSkills
