@@ -37,7 +37,11 @@
 
 
 {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"project": "JIRA, Trello, Confluence",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"project": {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"app1": "JIRA",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"app2": "Trello",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"app3": "Confluence"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"test": "MF ALM",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"backendAuto": {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto1": "Postman",<br>
