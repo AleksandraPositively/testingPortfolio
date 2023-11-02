@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/manual%20testing-grey)
 ![Static Badge](https://img.shields.io/badge/REST%20API-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/Java%20Script-grey)
-![Static Badge](https://img.shields.io/badge/Java-grey)
+![Static Badge](https://img.shields.io/badge/Java-E6E6E6)
 
 {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"SDLC": {<br>
