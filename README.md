@@ -1,9 +1,9 @@
 # Testing portfolio and experience space
 
 ## :clipboard: tableOfContent
-[aboutMe](https://github.com/AleksandraPujanek/testingPortfolio/blob/main/README.md#grey_question-aboutme) | [responsibilities](https://github.com/AleksandraPujanek/testingPortfolio#dart-responsibilities) | [techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [ PROJECT: API Trello - board name validation](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello) | [SQLBolt course](https://github.com/AleksandraPujanek/testingPortfolio/blob/main/README.md#file_folder--project-sql-requests)
+[aboutMe](#aboutMe) | [responsibilities](https://github.com/AleksandraPujanek/testingPortfolio#dart-responsibilities) | [techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [ PROJECT: API Trello - board name validation](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello) | [SQLBolt course](https://github.com/AleksandraPujanek/testingPortfolio/blob/main/README.md#file_folder--project-sql-requests)
 
-## :grey_question: aboutMe
+## :grey_question: <a name="aboutMe">aboutMe</a>
 Professionally I am a manual tester a with commercial experience since year 2021. I am a part of a large project for a big-pharma client. It is a high-risk, validated project regarding risk and quality management. I have been working at every level of the product develoopment from mvp to enhancement & maintenance and also I was a process coordinator which means I managed testing activities by creating testing plan and supervising its execution.
 
 I am distinguished by going beyond my own responsibilities, connecting cooperating areas and a broad perspective.
