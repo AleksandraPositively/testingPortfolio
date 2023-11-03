@@ -25,7 +25,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 ![Static Badge](https://img.shields.io/badge/test%20execution-grey)
 ![Static Badge](https://img.shields.io/badge/requirements-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/ISTQB%20principles-grey)
-![Static Badge](https://img.shields.io/badge/defects-E6E6E6)
+![Static Badge](https://img.shields.io/badge/defect%20management-E6E6E6)
 <br>
 ![Static Badge](https://img.shields.io/badge/test%20type:-functional-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/sanity-grey)
