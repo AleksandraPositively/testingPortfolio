@@ -8,7 +8,7 @@ Professionally I am a manual tester a with commercial experience since year 2021
 
 I am distinguished by going beyond my own responsibilities, connecting cooperating areas and a broad perspective.
 
-I am also very good exploratory tester and I work with an error guessing technique. In testing, I usually go a step further than necessary, which allows me to find defects that other testers in the project have not thought of.
+I am also very good exploratory tester and I work with an error guessing technique. In testing, I usually go a step further than necessary, which allows me to find non-obvious, easy-to-miss defects.
 
 ## :dart: responsibilities
 
