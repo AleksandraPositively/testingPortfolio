@@ -1,6 +1,12 @@
 ## :clipboard: tableOfContent
 [techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [ PROJECT: API Trello - board name validation](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello) | [SQLBolt course](https://github.com/AleksandraPujanek/testingPortfolio/blob/main/README.md#file_folder--project-sql-requests)
 
+## :grey_question: aboutMe
+Professionally I am a manual tester a with commercial experience since year 2021. I am a part of a large project for a big-pharma client. It is a high-risk, validated project regarding risk and quality management. I have been working at every level of the product develoopment from mvp to enhancement & maintenance and also I was a process coordinator which means I managed testing activities by creating testing plan and supervising its execution.
+
+I am distinguished by going beyond my own responsibilities, connecting cooperating areas and a broad perspective.
+
+I am also very good exploratory tester and I work with an error guessing technique. In testing, I usually go a step further than necessary, which allows me to find defects that other testers in the project have not thought of.
 
 ## :gem: techSkills
 ![Static Badge](https://img.shields.io/badge/agile-E6E6E6)
