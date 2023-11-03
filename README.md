@@ -1,7 +1,7 @@
 # Testing portfolio and experience space
 
 ## :clipboard: tableOfContent
-[aboutMe](#aboutMe) | [responsibilities](#responsibilities) | [techSkills](#techskills) | [tools](#testingPortfolio#tools) | [manualTestingSkills](#manualtestingskills) | [ PROJECT: API Trello - board name validation](#project1) | [SQLBolt course](#project2)
+[aboutMe](#aboutMe) | [responsibilities](#responsibilities) | [techSkills](#techSkills) | [tools](#tools) | [manualTestingSkills](#manualTestingSkills) | [ PROJECT: API Trello - board name validation](#project1) | [SQLBolt course](#project2)
 
 ## :grey_question: <a name="aboutMe">aboutMe</a>
 Professionally I am a manual tester a with commercial experience since year 2021. I am a part of a large project for a big-pharma client. It is a high-risk, validated project regarding risk and quality management. I have been working at every level of the product develoopment from mvp to enhancement & maintenance and also I was a process coordinator which means I managed testing activities by creating testing plan and supervising its execution.
