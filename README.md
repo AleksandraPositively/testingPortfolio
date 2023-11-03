@@ -1,7 +1,7 @@
 # Testing portfolio and experience space
 
 ## :clipboard: tableOfContent
-[aboutMe](#aboutMe) | [responsibilities](https://github.com/AleksandraPujanek/testingPortfolio#dart-responsibilities) | [techSkills](https://github.com/AleksandraPujanek/testingPortfolio#techskills) | [tools](https://github.com/AleksandraPujanek/testingPortfolio#tools) | [manualTestingSkills](https://github.com/AleksandraPujanek/testingPortfolio#manualtestingskills) | [ PROJECT: API Trello - board name validation](https://github.com/AleksandraPujanek/testingPortfolio#project-api-trello) | [SQLBolt course](https://github.com/AleksandraPujanek/testingPortfolio/blob/main/README.md#file_folder--project-sql-requests)
+[aboutMe](#aboutMe) | [responsibilities](#responsibilities) | [techSkills](#techskills) | [tools](#testingPortfolio#tools) | [manualTestingSkills](#manualtestingskills) | [ PROJECT: API Trello - board name validation](#project1) | [SQLBolt course](#project2)
 
 ## :grey_question: <a name="aboutMe">aboutMe</a>
 Professionally I am a manual tester a with commercial experience since year 2021. I am a part of a large project for a big-pharma client. It is a high-risk, validated project regarding risk and quality management. I have been working at every level of the product develoopment from mvp to enhancement & maintenance and also I was a process coordinator which means I managed testing activities by creating testing plan and supervising its execution.
@@ -10,7 +10,7 @@ I am distinguished by going beyond my own responsibilities, connecting cooperati
 
 I am also very good exploratory tester and I work with an error guessing technique. In testing, I usually go a step further than necessary, which allows me to find non-obvious, easy-to-miss defects.
 
-## :dart: responsibilities
+## :dart: <a name="responsibilities">responsibilities</a>
 
 - building and executing manual test for web service in accordance with user stories and requirements,
 - preparing test data for different environments,
@@ -20,7 +20,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 - close cooperation with other team members (PM, Business Analyst, Product Designers, Developers, Validators),
 - onboarding and training new test team members
 
-## :mag_right: manualTestingSkills
+## :mag_right: <a name="manualTestingSkills">manualTestingSkills</a>
 ![Static Badge](https://img.shields.io/badge/web%20applications-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/test%20planning-grey)
 ![Static Badge](https://img.shields.io/badge/test%20script%20creation-E6E6E6)
@@ -56,7 +56,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"theory": "ISTQB principles"<br>
 }
 
-## :gem: techSkills
+## :gem: <a name="techSkills">techSkills</a>
 ![Static Badge](https://img.shields.io/badge/agile-E6E6E6)
 ![Static Badge](https://img.shields.io/badge/scrum-grey)
 ![Static Badge](https://img.shields.io/badge/waterfall-E6E6E6)
@@ -80,7 +80,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
 }
 
-## :wrench: tools
+## :wrench: <a name="tools">tools</a>
 ![Static Badge](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Confluence-0052CC?logo=confluence&logoColor=white)
@@ -106,7 +106,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VC": "GitHub"<br>
 }
 
-## :file_folder:  PROJECT: API Trello - board name validation
+## :file_folder:  <a name="project1">PROJECT: API Trello - board name validation</a>
 
 :arrow_forward: [Project repository](https://github.com/AleksandraPujanek/PROJECT-API-Trello)
 
@@ -121,7 +121,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 - run Postman collections with environment and data load from Newman,
 - create Test Report
 
-## :file_folder:  PROJECT: SQLBolt course
+## :file_folder:  <a name="project2">PROJECT: SQLBolt course</a>
 
 :arrow_forward: [Project repository](https://github.com/AleksandraPujanek/SQLrequests)
 
