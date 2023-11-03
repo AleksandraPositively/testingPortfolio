@@ -8,54 +8,15 @@ I am distinguished by going beyond my own responsibilities, connecting cooperati
 
 I am also very good exploratory tester and I work with an error guessing technique. In testing, I usually go a step further than necessary, which allows me to find defects that other testers in the project have not thought of.
 
-## :gem: techSkills
-![Static Badge](https://img.shields.io/badge/agile-E6E6E6)
-![Static Badge](https://img.shields.io/badge/waterfall-grey)
-![Static Badge](https://img.shields.io/badge/SQL-E6E6E6)
-![Static Badge](https://img.shields.io/badge/manual%20testing-grey)
-![Static Badge](https://img.shields.io/badge/REST%20API-E6E6E6)
-![Static Badge](https://img.shields.io/badge/Java%20Script-grey)
-![Static Badge](https://img.shields.io/badge/Java-E6E6E6)
+## :dart: responsibilities
 
-{<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"SDLC": {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"metod1": "agile",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"metod2": "waterfall"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"databasesManagement": "SQL",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"frontend": "manual testing",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"backend": "REST API",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"codeBasics:": {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"code1": "JavaScript",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"code2": "JAVA"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
-}
-
-## :wrench: tools
-![Static Badge](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Confluence-0052CC?logo=confluence&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MF%20ALM-0073E7)
-![Static Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Postman-Newman-FF6C37?logo=postman&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JAVA-Rest%20Assured-179E35)
-![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-
-{<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"project": {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"app1": "JIRA",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"app2": "Trello",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"app3": "Confluence"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"test": "MF ALM",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"backendAuto": {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto1": "Postman",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto2": "Newman",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto3": "JAVA/Rest Assured"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VC": "GitHub"<br>
-}
+- building and executing manual test for web service in accordance with user stories and requirements,
+- preparing test data for different environments,
+- analysis and verification of functional documentation,
+- ad-hoc, exploratory testing (search for bugs in the software),
+- creating test documentation and reporting test results,
+- close cooperation with other team members (PM, Business Analyst, Product Designers, Developers, Validators),
+- onboarding and training new test team members
 
 ## :mag_right: manualTestingSkills
 ![Static Badge](https://img.shields.io/badge/web%20applications-E6E6E6)
@@ -91,6 +52,56 @@ I am also very good exploratory tester and I work with an error guessing techniq
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"defects": "defect management",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"theory": "ISTQB principles"<br>
+}
+
+## :gem: techSkills
+![Static Badge](https://img.shields.io/badge/agile-E6E6E6)
+![Static Badge](https://img.shields.io/badge/scrum-grey)
+![Static Badge](https://img.shields.io/badge/waterfall-E6E6E6)
+![Static Badge](https://img.shields.io/badge/SQL-grey)
+![Static Badge](https://img.shields.io/badge/manual%20testing-E6E6E6)
+![Static Badge](https://img.shields.io/badge/REST%20API-grey)
+![Static Badge](https://img.shields.io/badge/Java%20Script-E6E6E6)
+![Static Badge](https://img.shields.io/badge/Java-grey)
+
+{<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"SDLC": {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"metod1": "agile/scrum",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"metod2": "waterfall"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"databasesManagement": "SQL",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"frontend": "manual testing",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"backend": "REST API",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"codeBasics:": {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"code1": "JavaScript",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"code2": "JAVA"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+}
+
+## :wrench: tools
+![Static Badge](https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Confluence-0052CC?logo=confluence&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MF%20ALM-0073E7)
+![Static Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Postman-Newman-FF6C37?logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JAVA-Rest%20Assured-179E35)
+![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+
+{<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"project": {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"app1": "JIRA",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"app2": "Trello",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"app3": "Confluence"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"test": "MF ALM",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"backendAuto": {<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto1": "Postman",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto2": "Newman",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto3": "JAVA/Rest Assured"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VC": "GitHub"<br>
 }
 
 ## :file_folder:  PROJECT: API Trello - board name validation
