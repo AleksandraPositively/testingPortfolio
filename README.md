@@ -1,4 +1,4 @@
-# Testing portfolio and experience space
+# Automation testing portfolio and general experience space
 
 ## :clipboard: tableOfContent
 [aboutMe](#aboutMe) | [responsibilities](#responsibilities) | [techSkills](#techSkills) | [tools](#tools) | [manualTestingSkills](#manualTestingSkills) | [ PROJECT: API Trello - board name validation](#project1) | [SQLBolt course](#project2)
