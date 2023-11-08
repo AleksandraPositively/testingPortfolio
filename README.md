@@ -85,6 +85,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 ![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Confluence-0052CC?logo=confluence&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MF%20ALM-0073E7)
+![Static Badge](https://img.shields.io/badge/DevTools-0052CC)
 ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Postman-Newman-FF6C37?logo=postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JAVA-Rest%20Assured-179E35)
@@ -98,6 +99,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"app3": "Confluence"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"test": "MF ALM",<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"websiteAnalysis": "DevTools",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"backendAuto": {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto1": "Postman",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto2": "Newman",<br>
