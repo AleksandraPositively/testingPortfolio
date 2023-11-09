@@ -1,8 +1,8 @@
 # General experience space and automation testing portfolio
 
 ## :clipboard: tableOfContent
-[aboutMe](#aboutMe) | [responsibilities](#responsibilities) | [techSkills](#techSkills) | [tools](#tools) | [manualTestingSkills](#manualTestingSkills) | [ PROJECT: API Trello - board name validation](#project1) |<br>
-[ PROJECT: API Trello - E2E scenario](#project2) | [SQLBolt course](#project3)
+[aboutMe](#aboutMe) | [responsibilities](#responsibilities) | [techSkills](#techSkills) | [tools](#tools) | [manualTestingSkills](#manualTestingSkills) | [ PROJECT #1: API Trello - board name validation](#project1) |<br>
+[ PROJECT #2: API Trello - E2E scenario](#project2) | [PROJECT #3: SQLBolt course](#project3)
 
 ## :grey_question: <a name="aboutMe">aboutMe</a>
 Professionally I have been a manual tester a with commercial experience since year 2021 as a part of a large project for the big-pharma client. It is a high-risk, validated project regarding risk and quality management web application. I have been working at every level of the product develoopment from mvp to enhancement & maintenance and also I was a process coordinator which means I managed testing activities by creating testing plan and supervising its execution.
@@ -109,7 +109,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VC": "GitHub"<br>
 }
 
-## :file_folder:  <a name="project1">PROJECT: API Trello - board name validation</a>
+## :file_folder:  <a name="project1">PROJECT #1: API Trello - board name validation</a>
 
 :arrow_forward: [Project repository](https://github.com/AleksandraPujanek/PROJECT-API-Trello)
 
@@ -124,7 +124,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 - run Postman collections with environment and data load from Newman,
 - create Test Report
 
-## :file_folder:  <a name="project2">PROJECT: API Trello - E2E scenario</a>
+## :file_folder:  <a name="project2">PROJECT #2: API Trello - E2E scenario</a>
 
 :arrow_forward: [Project repository](https://github.com/AleksandraPujanek/PROJECT-API-Trello-E2E-scenario)
 
@@ -145,7 +145,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 - run Postman collections with environment and data load from Newman,
 - create Test Report
   
-## :file_folder:  <a name="project3">PROJECT: SQLBolt course</a>
+## :file_folder:  <a name="project3">PROJECT #3: SQLBolt course</a>
 
 :arrow_forward: [Project repository](https://github.com/AleksandraPujanek/SQLrequests)
 
