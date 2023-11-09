@@ -1,8 +1,7 @@
 # General experience space and automation testing portfolio
 
 ## :clipboard: tableOfContent
-[aboutMe](#aboutMe) | [responsibilities](#responsibilities) | [techSkills](#techSkills) | [tools](#tools) | [manualTestingSkills](#manualTestingSkills) | [ PROJECT: API Trello - board name validation](#project1) 
-
+[aboutMe](#aboutMe) | [responsibilities](#responsibilities) | [techSkills](#techSkills) | [tools](#tools) | [manualTestingSkills](#manualTestingSkills) | [ PROJECT: API Trello - board name validation](#project1) <br>
 | [ PROJECT: API Trello - E2E scenario](#project2) | [SQLBolt course](#project3)
 
 ## :grey_question: <a name="aboutMe">aboutMe</a>
