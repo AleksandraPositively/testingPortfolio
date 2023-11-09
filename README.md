@@ -1,7 +1,7 @@
 # General experience space and automation testing portfolio
 
 ## :clipboard: tableOfContent
-[aboutMe](#aboutMe) | [responsibilities](#responsibilities) | [techSkills](#techSkills) | [tools](#tools) | [manualTestingSkills](#manualTestingSkills) | [ PROJECT: API Trello - board name validation](#project1) | [SQLBolt course](#project2)
+[aboutMe](#aboutMe) | [responsibilities](#responsibilities) | [techSkills](#techSkills) | [tools](#tools) | [manualTestingSkills](#manualTestingSkills) | [ PROJECT: API Trello - board name validation](#project1) | [ PROJECT: API Trello - E2E scenario](#project2) | [SQLBolt course](#project3)
 
 ## :grey_question: <a name="aboutMe">aboutMe</a>
 Professionally I have been a manual tester a with commercial experience since year 2021 as a part of a large project for the big-pharma client. It is a high-risk, validated project regarding risk and quality management web application. I have been working at every level of the product develoopment from mvp to enhancement & maintenance and also I was a process coordinator which means I managed testing activities by creating testing plan and supervising its execution.
@@ -114,16 +114,37 @@ I am also very good exploratory tester and I work with an error guessing techniq
 
 :twisted_rightwards_arrows: Project scope:
 - find, read and analyse REST API documentation for Trello,
-- select area for testing activities:
-    - board name while creating a new board,
-    - E2E scenario,
+- select area for testing activities: board name while creating a new board:
+    - validation of available characters including special characters, Chinese and German characters,
+    - validation of the name length,
 - create requests and test scripts in Postman,
 - apply good practisies: clean up after testing activities,
 - create Postman's collections, environment and test data (data load),
 - run Postman collections with environment and data load from Newman,
 - create Test Report
 
-## :file_folder:  <a name="project2">PROJECT: SQLBolt course</a>
+## :file_folder:  <a name="project2">PROJECT: API Trello - E2E scenario</a>
+
+:arrow_forward: [Project repository](https://github.com/AleksandraPujanek/PROJECT-API-Trello-E2E-scenario)
+
+:twisted_rightwards_arrows: Project scope:
+- find, read and analyse REST API documentation for Trello,
+- E2E scenario:
+    - create three boards,
+    - add stars to two of them,
+    - create two lists "To do" and "Done" for one of the board,
+    - create a card for "To do" list,
+    - add a member and a due date to the created card,
+    - move the card from "To do" list to "Done" list,
+    - archive the card,
+    - delete the card,
+- create requests and test scripts in Postman,
+- apply good practisies: clean up after testing activities,
+- create Postman's collections, environment and test data,
+- run Postman collections with environment and data load from Newman,
+- create Test Report
+  
+## :file_folder:  <a name="project3">PROJECT: SQLBolt course</a>
 
 :arrow_forward: [Project repository](https://github.com/AleksandraPujanek/SQLrequests)
 
