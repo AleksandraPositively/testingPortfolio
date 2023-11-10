@@ -89,7 +89,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 ![Static Badge](https://img.shields.io/badge/DevTools-0052CC)
 ![Static Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Postman-Newman-FF6C37?logo=postman&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JAVA-Rest%20Assured-179E35)
+![Static Badge](https://img.shields.io/badge/Intellij-grey)
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 
@@ -104,7 +104,7 @@ I am also very good exploratory tester and I work with an error guessing techniq
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"backendAuto": {<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto1": "Postman",<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto2": "Newman",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto3": "JAVA/Rest Assured"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"auto3": "Intellij"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"VC": "GitHub"<br>
 }
