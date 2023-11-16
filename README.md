@@ -1,9 +1,9 @@
 # Automation testing portfolio
 
 ## :clipboard: tableOfContent
-[ PROJECT #1: API Trello - board name validation](#project1) | [ PROJECT #2: API Trello - E2E scenario](#project2) | [PROJECT #3: SQLBolt course](#project3)
+[ PROJECT #1: Postman - API Trello - board name validation](#project1) | [ PROJECT #2: Postman - API Trello - E2E scenario](#project2) | [PROJECT #3: SQLBolt course](#project3) | [PROJECT #4: JAVA/Rest Assured - API Clickup - E2E scenario](#project4)
 
-## :file_folder:  <a name="project1">PROJECT #1: API Trello - board name validation</a>
+## :file_folder:  <a name="project1">PROJECT #1: Postman - API Trello - board name validation</a>
 
 :arrow_forward: [Project repository](https://github.com/AleksandraPujanek/PROJECT-API-Trello)
 
@@ -18,7 +18,7 @@
 - run Postman collections with environment and data load from Newman,
 - create Test Report
 
-## :file_folder:  <a name="project2">PROJECT #2: API Trello - E2E scenario</a>
+## :file_folder:  <a name="project2">PROJECT #2: Postman - API Trello - E2E scenario</a>
 
 :arrow_forward: [Project repository](https://github.com/AleksandraPujanek/PROJECT-API-Trello-E2E-scenario)
 
@@ -37,7 +37,7 @@
 - apply good practisies: clean up after testing activities,
 - create Postman's collections, environment and test data,
 - run Postman collections with environment and data load from Newman,
-- create Test Report
+- create Test Report using Extra HTML plugin.
   
 ## :file_folder:  <a name="project3">PROJECT #3: SQLBolt course</a>
 
@@ -63,6 +63,23 @@ SQL Lesson 16: Creating tables<br>
 SQL Lesson 17: Altering tables<br>
 SQL Lesson 18: Dropping tables<br>
 SQL Lesson X: To infinity and beyond!<br>
+
+## :file_folder:  <a name="project4">PROJECT #4: JAVA/Rest Assured - API Clickup - E2E scenario</a>
+
+:arrow_forward: [Project repository](https://github.com/AleksandraPujanek/PROJECT-API-Clickup-E2E-scenario)
+
+:twisted_rightwards_arrows: Project scope:
+- find, read and analyse REST API documentation for Clickup,
+- E2E scenario:
+    - create spaces,
+    - create list in the space,
+    - create a task in the list,
+    - update task name and description,
+    - change task's status to "completed",
+- create requests and test scripts in JAVA using Rest Assured library,
+- apply good practisies: clean up after testing activities,
+- run tests from Maven and Jenkins,
+- create Test Report in Allure.
 
 ## :bulb: ISTQB knowledge
 
