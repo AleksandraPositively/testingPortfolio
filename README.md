@@ -81,6 +81,26 @@ SQL Lesson X: To infinity and beyond!<br>
 - run tests from Maven and Jenkins,
 - create Test Report in Allure.
 
+## :file_folder:  <a name="project5">PROJECT #5: JAVA/Rest Assured - API Trello - E2E scenario</a>
+
+:arrow_forward: [Project repository](https://github.com/AleksandraPujanek/PROJECT-API-Trello-E2E-scenario-2)
+
+:twisted_rightwards_arrows: Project scope:
+- find, read and analyse REST API documentation for Clickup,
+- E2E scenario:
+    - create two boards,
+    - create two list in board 1,
+    - create two cards in list 1,
+    - move card 1 from list 1 to list 2,
+    - add a member to coard 1,
+    - add due date to card 1,
+    - archive card 1,  
+    - delete the board,
+- create requests and test scripts in JAVA using Rest Assured library,
+- apply good practisies: clean up after testing activities,
+- run tests from Maven and Jenkins,
+- create Test Report in Allure.
+
 ## :bulb: ISTQB knowledge
 
 QUIZ: [https://getistqb.com/quiz-ecru/](https://getistqb.com/quiz-ecru/)
